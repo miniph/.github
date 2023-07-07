@@ -1,5 +1,5 @@
 ## About Miniph
-Miniph is a set of reusable PHP components and a PHP web framework.
+**Miniph** is a **PHP framework** and a set of reusable **PHP components**.
 
 ## Purpose
 The purpose of this is to honing, improving, and maintaining my coding skills using PHP.
@@ -27,3 +27,24 @@ It's because I was feeling being a slow programmer because of AI.
 - [ ] [miniph/blade](https://github.com/miniph/blade)
 - [ ] [miniph/vite](https://github.com/miniph/vite)
 - [ ] [miniph/framework](https://github.com/miniph/framework)
+
+## Inspirations
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/laravel" rel="nofollow">
+                <img src="https://github.com/laravel.png" width="100">
+                <br>
+                <sub>Laravel</sub>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/symfony" rel="nofollow">
+                <img src="https://github.com/symfony.png" width="100">
+                <br>
+                <sub>Symfony</sub>
+            </a>
+        </td>
+    </tr>
+</table>
