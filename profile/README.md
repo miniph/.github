@@ -36,14 +36,14 @@ It's because I was feeling being a slow programmer because of AI.
             <a href="https://github.com/laravel" rel="nofollow">
                 <img src="https://github.com/laravel.png" width="100">
                 <br>
-                <sub>Laravel</sub>
+                <b>Laravel</b>
             </a>
         </td>
         <td align="center">
             <a href="https://github.com/symfony" rel="nofollow">
                 <img src="https://github.com/symfony.png" width="100">
                 <br>
-                <sub>Symfony</sub>
+                <b>Symfony</b>
             </a>
         </td>
     </tr>
