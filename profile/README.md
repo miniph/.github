@@ -4,8 +4,6 @@
 ## Purpose
 The purpose of this is to honing, improving, and maintaining my coding skills using PHP.
 
-It's because I was feeling being a slow programmer because of AI.
-
 ## Progress
 
 - [ ] [miniph/console](https://github.com/miniph/console)
